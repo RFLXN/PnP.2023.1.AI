@@ -1,0 +1,3 @@
+[submodule "doc/marp-theme/dracula"]
+	path = doc/marp-theme/dracula
+	url = https://github.com/dracula/marp.git
